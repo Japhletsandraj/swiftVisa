@@ -4,7 +4,7 @@ This repository is a clone of a branch from a team project.
 
 ## Source Details
 
-- **Original Repository:** [Japhletsandraj/SwiftVisa-AI-Based-Visa-Eligibility-Screening-Agent](https://github.com/Japhletsandraj/SwiftVisa-AI-Based-Visa-Eligibility-Screening-Agent)
+- **Original Repository:** [Japhletsandraj/SwiftVisa-AI-Based-Visa-Eligibility-Screening-Agent](https://github.com/saikasai-0909/SwiftVisa-AI-Based-Visa-Eligibility-Screening-Agent/tree/Japhlet-Sandra-J)
 - **Original Branch:** `Japhlet-Sandra-J`
 - **Original Commit SHA:** `ac4f1cefd11606c49e99bae69bbd7e8af691ca77`
 - **Clone Date:** 2026-05-02
